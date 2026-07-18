@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.git
+.gitignore
+services/ai/.venv
+services/ai/__pycache__
+**/__pycache__
+*.pyc
+data/tenderlens-db.json

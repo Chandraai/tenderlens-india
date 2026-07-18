@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.vendor/
+
+# Build output
+.next/
+out/
+
+# Environment — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+services/ai/.venv/
+services/ai/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Data (local dev DB — committed as seed, runtime writes go to disk)
+# data/tenderlens-db.json is kept in repo as initial seed
+
+# IDE
+.idea/
+.vscode/
+*.swp

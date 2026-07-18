@@ -1,0 +1,3807 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-16T18:23:31.826Z",
+  "tenders": [
+    {
+      "id": "CWC-RO-LKO-56T-2026",
+      "title": "Construction of Labour Toilet block with electrical and plumbing works along with construction of septic tank, soak pit at CW-GIDA.",
+      "portal": "CPPP",
+      "state": "Uttar Pradesh",
+      "department": "Central Warehousing Corporation RO Lucknow",
+      "category": "Building Construction",
+      "valueCr": 0.132386591,
+      "deadline": "2026-03-18",
+      "emdLakh": 0.265,
+      "pbgPercent": 5,
+      "aiScore": 19,
+      "status": "Closed",
+      "risk": "High",
+      "winProbability": 18,
+      "recommendedBidLowCr": 0.12444339553999999,
+      "recommendedBidHighCr": 0.12973885918,
+      "competitorEstimateCr": 0.12709112736,
+      "marginPercent": 0,
+      "clauses": [
+        "ELIGIBILITY CRITERIA FOR PARTICIPATION IN THIS TENDER Participation in this Tender Process is open to all bidders who fulfil the ‘Eligibility’ Criteria.",
+        "The bidder should meet the following eligibility criteria on the date of his bid submission and should continue to meet these till the end of the contract.",
+        "Bidder shall be required to declare fulfilment of Eligibility Criteria and submit these declarations in form of an Affidavit along with Bidder information Summary in Prequalifying Performa (PQ Performa) along with various EXHIBITS enclosed in the APPENDIX III of this NIT.",
+        "c) must be having valid registration regarding GSTIN, PAN."
+      ],
+      "pqChecks": [
+        {
+          "label": "Tender PDF parsed",
+          "passed": true
+        },
+        {
+          "label": "Deadline open",
+          "passed": false
+        },
+        {
+          "label": "GST/PAN PQ found",
+          "passed": true
+        }
+      ],
+      "sourceUrl": "https://cewacor.nic.in/Document/2026/March/Work_Documents/Applicant_Recno1/TenderDoc56T1_a7d6a946-ef09-46e2-8c19-6f46d7a27745.pdf",
+      "sourceType": "Public PDF"
+    },
+    {
+      "id": "2026_REDUP_1144852_1",
+      "title": "Construction of road from Shahzadpur paved road to Kotiachitra village, Raebareli",
+      "portal": "State",
+      "state": "Uttar Pradesh",
+      "department": "Rural Engineering Department UP",
+      "category": "Road Construction",
+      "valueCr": 1.86,
+      "deadline": "2026-05-25",
+      "emdLakh": 3.72,
+      "pbgPercent": 5,
+      "aiScore": 88,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 79,
+      "recommendedBidLowCr": 1.74,
+      "recommendedBidHighCr": 1.82,
+      "competitorEstimateCr": 1.78,
+      "marginPercent": 11.8,
+      "clauses": [
+        "Percentage rate contract",
+        "Village road works",
+        "PWD/RED registration",
+        "Performance security within award window"
+      ],
+      "pqChecks": [
+        {
+          "label": "Similar rural road work",
+          "passed": true
+        },
+        {
+          "label": "Valid contractor registration",
+          "passed": true
+        },
+        {
+          "label": "GST and PAN ready",
+          "passed": true
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "2026_REDUP_1135619_23",
+      "title": "Construction of CC road from Deepu Jaiswal house to tower side, Rehra Bazar",
+      "portal": "State",
+      "state": "Uttar Pradesh",
+      "department": "Rural Engineering Department UP",
+      "category": "Road Construction",
+      "valueCr": 0.42,
+      "deadline": "2026-05-25",
+      "emdLakh": 0.84,
+      "pbgPercent": 5,
+      "aiScore": 81,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 73,
+      "recommendedBidLowCr": 0.39,
+      "recommendedBidHighCr": 0.41,
+      "competitorEstimateCr": 0.4,
+      "marginPercent": 10.6,
+      "clauses": [
+        "CC pavement",
+        "Local body measurement book",
+        "Defect liability period",
+        "Material testing at site"
+      ],
+      "pqChecks": [
+        {
+          "label": "CC road execution experience",
+          "passed": true
+        },
+        {
+          "label": "Plant and machinery declaration",
+          "passed": true
+        },
+        {
+          "label": "Local labour compliance",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "UP-PWD-DHARMAPUR-140922745",
+      "title": "Patch repair works of different village roads in Vikas Khand Dharmapur",
+      "portal": "State",
+      "state": "Uttar Pradesh",
+      "department": "Public Works Department UP",
+      "category": "Road Maintenance",
+      "valueCr": 0.68,
+      "deadline": "2026-05-15",
+      "emdLakh": 1.2,
+      "pbgPercent": 3,
+      "aiScore": 67,
+      "status": "Closing",
+      "risk": "Medium",
+      "winProbability": 57,
+      "recommendedBidLowCr": 0.63,
+      "recommendedBidHighCr": 0.66,
+      "competitorEstimateCr": 0.64,
+      "marginPercent": 8.9,
+      "clauses": [
+        "Short closing window",
+        "Patch repair BOQ",
+        "Hot mix/material quality",
+        "Running bill certification"
+      ],
+      "pqChecks": [
+        {
+          "label": "PWD registration",
+          "passed": true
+        },
+        {
+          "label": "Bituminous repair experience",
+          "passed": true
+        },
+        {
+          "label": "Bid preparation time available",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "ICP-SONAULI/EPC/2026/01",
+      "title": "EPC construction of stakeholder accommodation, multipurpose block, roads and external development at ICP Sonauli",
+      "portal": "CPPP",
+      "state": "Uttar Pradesh",
+      "department": "Land Ports Authority / Central Works",
+      "category": "Building Construction",
+      "valueCr": 94.5,
+      "deadline": "2026-06-10",
+      "emdLakh": 95,
+      "pbgPercent": 5,
+      "aiScore": 76,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 62,
+      "recommendedBidLowCr": 88.2,
+      "recommendedBidHighCr": 92.1,
+      "competitorEstimateCr": 90.4,
+      "marginPercent": 9.4,
+      "clauses": [
+        "EPC mode",
+        "Building plus roads and landscaping",
+        "Border infrastructure security compliance",
+        "Milestone-linked payments"
+      ],
+      "pqChecks": [
+        {
+          "label": "Large EPC building project",
+          "passed": true
+        },
+        {
+          "label": "Average turnover above threshold",
+          "passed": true
+        },
+        {
+          "label": "Security-zone work experience",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "CPWD/2026-27/CIVIL/TOILET-BATH-KADANA",
+      "title": "Construction of toilet-cum-bathroom and renovation works at Rangeli site office",
+      "portal": "CPPP",
+      "state": "Gujarat",
+      "department": "Central Water Commission / CPWD Works",
+      "category": "Building Renovation",
+      "valueCr": 0.31,
+      "deadline": "2026-05-20",
+      "emdLakh": 0.62,
+      "pbgPercent": 3,
+      "aiScore": 71,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 65,
+      "recommendedBidLowCr": 0.29,
+      "recommendedBidHighCr": 0.3,
+      "competitorEstimateCr": 0.3,
+      "marginPercent": 12.2,
+      "clauses": [
+        "Civil renovation",
+        "Sanitary and plumbing works",
+        "Site office constraints",
+        "CPWD specifications"
+      ],
+      "pqChecks": [
+        {
+          "label": "Civil renovation experience",
+          "passed": true
+        },
+        {
+          "label": "Sanitary/plumbing vendor tie-up",
+          "passed": true
+        },
+        {
+          "label": "CPWD class registration",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "NHAI/RO-LKO/2026/ROB-04",
+      "title": "Construction of minor bridge and approach road on NH corridor package",
+      "portal": "CPPP",
+      "state": "Uttar Pradesh",
+      "department": "NHAI Regional Office Lucknow",
+      "category": "Bridge & Highway",
+      "valueCr": 38.7,
+      "deadline": "2026-06-03",
+      "emdLakh": 38.7,
+      "pbgPercent": 5,
+      "aiScore": 73,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 61,
+      "recommendedBidLowCr": 36.1,
+      "recommendedBidHighCr": 37.8,
+      "competitorEstimateCr": 37,
+      "marginPercent": 8.5,
+      "clauses": [
+        "IRC/MoRTH specifications",
+        "Traffic diversion plan",
+        "Bridge QA/QC",
+        "Mobilisation advance conditions"
+      ],
+      "pqChecks": [
+        {
+          "label": "Bridge work completed",
+          "passed": true
+        },
+        {
+          "label": "Hot mix plant access",
+          "passed": true
+        },
+        {
+          "label": "Traffic safety plan",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "MH-PWD/BLDG/2026/221",
+      "title": "Construction of district administrative building and parking block",
+      "portal": "State",
+      "state": "Maharashtra",
+      "department": "Maharashtra Public Works Department",
+      "category": "Building Construction",
+      "valueCr": 52.4,
+      "deadline": "2026-06-05",
+      "emdLakh": 52,
+      "pbgPercent": 5,
+      "aiScore": 84,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 72,
+      "recommendedBidLowCr": 49.3,
+      "recommendedBidHighCr": 51.2,
+      "competitorEstimateCr": 50.1,
+      "marginPercent": 12.7,
+      "clauses": [
+        "RCC framed structure",
+        "Fire NOC compliance",
+        "Basement parking waterproofing",
+        "Green building provisions"
+      ],
+      "pqChecks": [
+        {
+          "label": "RCC public building references",
+          "passed": true
+        },
+        {
+          "label": "Fire and MEP subcontractors",
+          "passed": true
+        },
+        {
+          "label": "Local registration",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "RAJ-HOUSING/2026/AFF-18",
+      "title": "Affordable housing block construction with internal roads and drainage",
+      "portal": "State",
+      "state": "Rajasthan",
+      "department": "Rajasthan Housing Board",
+      "category": "Housing",
+      "valueCr": 76.2,
+      "deadline": "2026-06-12",
+      "emdLakh": 76,
+      "pbgPercent": 5,
+      "aiScore": 79,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 69,
+      "recommendedBidLowCr": 71.4,
+      "recommendedBidHighCr": 74.8,
+      "competitorEstimateCr": 73.1,
+      "marginPercent": 11.2,
+      "clauses": [
+        "Mass housing",
+        "Internal roads",
+        "Drainage and water supply",
+        "Stage-wise handover"
+      ],
+      "pqChecks": [
+        {
+          "label": "Housing project experience",
+          "passed": true
+        },
+        {
+          "label": "Labour camp compliance",
+          "passed": true
+        },
+        {
+          "label": "Material escalation clause favourable",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "KAR-PWD/2026/ROAD-77",
+      "title": "Widening and strengthening of district major road with CD works",
+      "portal": "State",
+      "state": "Karnataka",
+      "department": "Karnataka PWD",
+      "category": "Road Construction",
+      "valueCr": 24.8,
+      "deadline": "2026-05-30",
+      "emdLakh": 24.8,
+      "pbgPercent": 5,
+      "aiScore": 70,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 58,
+      "recommendedBidLowCr": 23.1,
+      "recommendedBidHighCr": 24.2,
+      "competitorEstimateCr": 23.5,
+      "marginPercent": 9.1,
+      "clauses": [
+        "Road widening",
+        "CD structures",
+        "Utility shifting",
+        "Monsoon execution risk"
+      ],
+      "pqChecks": [
+        {
+          "label": "Road widening references",
+          "passed": true
+        },
+        {
+          "label": "Crusher/hot mix source",
+          "passed": true
+        },
+        {
+          "label": "Monsoon buffer plan",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "TN-TWAD/2026/WATER-14",
+      "title": "Construction of OHT, pumping main and distribution network for town water supply",
+      "portal": "State",
+      "state": "Tamil Nadu",
+      "department": "TWAD Board",
+      "category": "Water Infrastructure",
+      "valueCr": 31.6,
+      "deadline": "2026-06-07",
+      "emdLakh": 31.6,
+      "pbgPercent": 5,
+      "aiScore": 75,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 64,
+      "recommendedBidLowCr": 29.4,
+      "recommendedBidHighCr": 30.8,
+      "competitorEstimateCr": 30.2,
+      "marginPercent": 10.1,
+      "clauses": [
+        "OHT construction",
+        "DI/HDPE pipeline",
+        "Hydraulic testing",
+        "Trial run and O&M handover"
+      ],
+      "pqChecks": [
+        {
+          "label": "Water supply project references",
+          "passed": true
+        },
+        {
+          "label": "Pipeline pressure testing capability",
+          "passed": true
+        },
+        {
+          "label": "Local statutory approvals",
+          "passed": false
+        }
+      ],
+      "sourceType": "Curated"
+    },
+    {
+      "id": "2025_CEUCZ_1101428_2",
+      "title": "Improvement work of Blackspot Ballu Adda Situated on Jiyamau Chauraha to Gomti Barrage via Ballu Adda - Signage Work",
+      "portal": "State",
+      "state": "Uttar Pradesh",
+      "department": "Chief Engineer PWD Central Zone,Lucknow / S.E. UPPWD Lucknow / Provincial Division, Lucknow",
+      "category": "Road Works",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 64,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 52,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Live UP eTender signal",
+        "Open portal detail before bid spend",
+        "Verify corrigendum and BOQ"
+      ],
+      "pqChecks": [
+        {
+          "label": "Portal source reachable",
+          "passed": true
+        },
+        {
+          "label": "Full NIT/BOQ downloaded",
+          "passed": false
+        },
+        {
+          "label": "EMD/PBG verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndLatestActiveTenders&service=direct&sp=SD0pvl4aI14aIciJHvwQAUA%3D%3D",
+      "sourceType": "UP eTender Live"
+    },
+    {
+      "id": "GEM-UP-PWD-CIVIL-2026-01",
+      "title": "GeM civil works package for road safety furniture, signages and allied construction supply in Uttar Pradesh",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "UP Public Works / GeM Buyer",
+      "category": "Road Construction",
+      "valueCr": 2.4,
+      "deadline": "2026-06-18",
+      "emdLakh": 4.8,
+      "pbgPercent": 5,
+      "aiScore": 74,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 61,
+      "recommendedBidLowCr": 2.25,
+      "recommendedBidHighCr": 2.34,
+      "competitorEstimateCr": 2.31,
+      "marginPercent": 9.8,
+      "clauses": [
+        "GeM bid participation",
+        "Buyer technical specification compliance",
+        "L1/RA pricing pressure",
+        "Delivery and installation proof required"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM seller registration",
+          "passed": true
+        },
+        {
+          "label": "OEM/authorized supply evidence",
+          "passed": false
+        },
+        {
+          "label": "GST/PAN and past performance ready",
+          "passed": true
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/all-bids",
+      "sourceType": "GeM Public Signal"
+    },
+    {
+      "id": "GEM-UP-NAGAR-CIVIL-2026-02",
+      "title": "GeM tender signal for municipal construction material, drain cover and site works in Uttar Pradesh",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Uttar Pradesh Urban Local Body / GeM Buyer",
+      "category": "Building Construction",
+      "valueCr": 0.95,
+      "deadline": "2026-06-14",
+      "emdLakh": 1.9,
+      "pbgPercent": 3,
+      "aiScore": 69,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 55,
+      "recommendedBidLowCr": 0.89,
+      "recommendedBidHighCr": 0.93,
+      "competitorEstimateCr": 0.91,
+      "marginPercent": 8.6,
+      "clauses": [
+        "GeM catalogue/specification match",
+        "Delivery challan and inspection",
+        "Municipal buyer acceptance",
+        "Short clarification window"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM profile active",
+          "passed": true
+        },
+        {
+          "label": "Similar municipal supply/work order",
+          "passed": true
+        },
+        {
+          "label": "Exact item specification mapped",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/all-bids",
+      "sourceType": "GeM Public Signal"
+    },
+    {
+      "id": "GEM-UP-HOUSING-MEP-2026-03",
+      "title": "GeM bid signal for electrical, plumbing and finishing works support for UP public building maintenance",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "UP Housing / Public Building Buyer",
+      "category": "Building Renovation",
+      "valueCr": 1.35,
+      "deadline": "2026-06-20",
+      "emdLakh": 2.7,
+      "pbgPercent": 5,
+      "aiScore": 72,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 63,
+      "recommendedBidLowCr": 1.28,
+      "recommendedBidHighCr": 1.32,
+      "competitorEstimateCr": 1.3,
+      "marginPercent": 11.4,
+      "clauses": [
+        "GeM service bid",
+        "MEP subcontractor readiness",
+        "Warranty and service response",
+        "MSME preference must be verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "MEP vendor tie-up",
+          "passed": true
+        },
+        {
+          "label": "GeM service category mapped",
+          "passed": false
+        },
+        {
+          "label": "MSME/Udyam benefit checked",
+          "passed": true
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/all-bids",
+      "sourceType": "GeM Public Signal"
+    },
+    {
+      "id": "GEM/2026/B/7565879",
+      "title": "Construction of SHED",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 76,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 62,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 10.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "BOQ/detail document must be downloaded from GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9358064",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7559065",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9350532",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7558827",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9350278",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/675672",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9404484",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7474091",
+      "title": "Facility Management Services - LumpSum Based - GTPP site-Plant Canteen, AO Building, Service Buildi",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Ministry of Coal / NEYVELI UTTAR PRADESH POWER Limited",
+      "category": "Building Renovation",
+      "valueCr": 2,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9255968",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7580700",
+      "title": "Facility Management Services - LumpSum Based - Roof Treatment, painting, toilet construction & Wate",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "MADHYANCHAL VIDYUT VITARAN NIGAM LIMITED LUCKNOW",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9374662",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7580821",
+      "title": "Facility Management Services - LumpSum Based - Roof Treatment, painting, toilet construction & Wate",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "MADHYANCHAL VIDYUT VITARAN NIGAM LIMITED LUCKNOW",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9374804",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7560703",
+      "title": "Custom Bid for Services - Erection of 33/11KV Line Strengthening LT Line Strengthening Construction",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9352291",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7559108",
+      "title": "Custom Bid for Services - Construction of 11 kV/LT lines, establishment of double-pole LT substatio",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9350580",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7589492",
+      "title": "LED Luminaire For Floodlight Conforming To IS 10322 (Part 5/Section 5) (V3) (Under BIS Scheme - II)",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9384483",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7579092",
+      "title": "Facility Management Services - LumpSum Based - DISTRICT JAIL HARDOI; Work of External and Internal ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Prisons Administration and Reforms Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9372783",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7576219",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9369589",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7589453",
+      "title": "Facility Management Services - LumpSum Based - BDO OFFICE JARWAL; Supply, Installation & Fitting of",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Rural Development Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-06-05",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9384439",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7556197",
+      "title": "Custom Bid for Services - Construction of New 11KV Line & Strengthening of existing 11KV line under",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9347319",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7574725",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9367917",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7585071",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9379604",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7586946",
+      "title": "Manpower Outsourcing Services - Fixed Remuneration - Admin; TAKNIKI SAHAYAK; High School with Diplo",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Rural Development Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9381748",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/677424",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9423135",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7583678",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9378052",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7571256",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9364084",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7571148",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9363964",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7489025",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9272735",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7488994",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9272701",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7579088",
+      "title": "Repair and Overhauling Service - REAPAIR OF OLD  BUILDING; REAPAIR OF OLD  BUILDING; Yes; Service P",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Medical Health and Family Welfare Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9372778",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7594249",
+      "title": "Repair and Overhauling Service - Repair of New Building; Repair of New Building; Yes; Service Provi",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Medical Health and Family Welfare Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-06",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9389738",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7596695",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-15",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9392513",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "MP-BHOPAL-CONSTRUCTION",
+      "title": "Madhya Pradesh construction tender monitor - Bhopal",
+      "portal": "State",
+      "state": "Madhya Pradesh",
+      "department": "Public Works Department MP",
+      "category": "Bhopal",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Madhya Pradesh official portal monitoring signal",
+        "City/region: Bhopal",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "MP-INDORE-CONSTRUCTION",
+      "title": "Madhya Pradesh construction tender monitor - Indore",
+      "portal": "State",
+      "state": "Madhya Pradesh",
+      "department": "Urban Administration and Development MP",
+      "category": "Indore",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Madhya Pradesh official portal monitoring signal",
+        "City/region: Indore",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "MP-GWALIOR-CONSTRUCTION",
+      "title": "Madhya Pradesh construction tender monitor - Gwalior",
+      "portal": "State",
+      "state": "Madhya Pradesh",
+      "department": "MP State Agricultural Marketing Board",
+      "category": "Gwalior",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Madhya Pradesh official portal monitoring signal",
+        "City/region: Gwalior",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "MP-JABALPUR-CONSTRUCTION",
+      "title": "Madhya Pradesh construction tender monitor - Jabalpur",
+      "portal": "State",
+      "state": "Madhya Pradesh",
+      "department": "Madhya Pradesh Housing and Infrastructure Development",
+      "category": "Jabalpur",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Madhya Pradesh official portal monitoring signal",
+        "City/region: Jabalpur",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "MP-UJJAIN-CONSTRUCTION",
+      "title": "Madhya Pradesh construction tender monitor - Ujjain",
+      "portal": "State",
+      "state": "Madhya Pradesh",
+      "department": "Public Works Department MP",
+      "category": "Ujjain",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Madhya Pradesh official portal monitoring signal",
+        "City/region: Ujjain",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DELHI-NCR-DELHI-CONSTRUCTION",
+      "title": "Delhi NCR construction tender monitor - Delhi",
+      "portal": "State",
+      "state": "Delhi NCR",
+      "department": "PWD Delhi",
+      "category": "Delhi",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Delhi NCR official portal monitoring signal",
+        "City/region: Delhi",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DELHI-NCR-NOIDA-CONSTRUCTION",
+      "title": "Delhi NCR construction tender monitor - Noida",
+      "portal": "State",
+      "state": "Delhi NCR",
+      "department": "Delhi Development Authority",
+      "category": "Noida",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Delhi NCR official portal monitoring signal",
+        "City/region: Noida",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DELHI-NCR-GHAZIABAD-CONSTRUCTION",
+      "title": "Delhi NCR construction tender monitor - Ghaziabad",
+      "portal": "State",
+      "state": "Delhi NCR",
+      "department": "Delhi Jal Board",
+      "category": "Ghaziabad",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Delhi NCR official portal monitoring signal",
+        "City/region: Ghaziabad",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DELHI-NCR-GURUGRAM-CONSTRUCTION",
+      "title": "Delhi NCR construction tender monitor - Gurugram",
+      "portal": "State",
+      "state": "Delhi NCR",
+      "department": "Municipal Corporation of Delhi",
+      "category": "Gurugram",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Delhi NCR official portal monitoring signal",
+        "City/region: Gurugram",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DELHI-NCR-FARIDABAD-CONSTRUCTION",
+      "title": "Delhi NCR construction tender monitor - Faridabad",
+      "portal": "State",
+      "state": "Delhi NCR",
+      "department": "NCR Development / Urban Works",
+      "category": "Faridabad",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 52,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Delhi NCR official portal monitoring signal",
+        "City/region: Faridabad",
+        "Open official portal to fetch exact value, EMD, BOQ and deadline",
+        "Verify corrigendum and BOQ before bid spend"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official portal source linked",
+          "passed": true
+        },
+        {
+          "label": "Construction/civil category signal",
+          "passed": true
+        },
+        {
+          "label": "Value/EMD/deadline verified from portal detail",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndLatestActiveTenders&service=page",
+      "sourceType": "Regional Portal Signal"
+    },
+    {
+      "id": "DEFENCE-MES-JUNE-2026",
+      "title": "MES defence works monitor - buildings, roads, repairs and station maintenance (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "E-IN-C Branch - Military Engineer Services",
+      "category": "MES Construction / Maintenance",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "DEFENCE-DRDO-JUNE-2026",
+      "title": "DRDO defence procurement monitor - labs, test facilities and technical supply (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "Defence Research and Development Organisation",
+      "category": "DRDO Labs / Technical Procurement",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "DEFENCE-ARMY-JUNE-2026",
+      "title": "Army procurement monitor - stores, works, logistics and station requirements (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "IHQ of MoD Army",
+      "category": "Army Procurement",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "DEFENCE-NAVY-JUNE-2026",
+      "title": "Navy procurement monitor - dockyard, base works and technical services (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "IHQ of MoD Navy",
+      "category": "Navy / Dockyard Works",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "DEFENCE-AIRFORCE-JUNE-2026",
+      "title": "Air Force procurement monitor - air station civil works and services (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "IHQ of MoD Air Force",
+      "category": "Air Force Station Works",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "DEFENCE-DPSU-JUNE-2026",
+      "title": "Defence PSU monitor - shipyard, ordnance, manufacturing and services (June 2026)",
+      "portal": "CPPP",
+      "state": "Defence All India",
+      "department": "Defence PSU / Shipyard / Ordnance ecosystem",
+      "category": "Defence PSU / Shipyard",
+      "valueCr": 0,
+      "deadline": "See portal",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 54,
+      "status": "Open",
+      "risk": "High",
+      "winProbability": 42,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 0,
+      "clauses": [
+        "Official DEFPROC/CPPP defence source monitoring signal",
+        "Defence tenders may require security restrictions, vendor registration, OEM/Make-in-India compliance, and sensitive document handling",
+        "Open official portal to verify exact tender ID, value, EMD, PBG, corrigendum and BOQ/RFP",
+        "CEO rule: do not approve bid spend until source document and eligibility gates are verified"
+      ],
+      "pqChecks": [
+        {
+          "label": "Official defence procurement source linked",
+          "passed": true
+        },
+        {
+          "label": "Security/eligibility requirements verified",
+          "passed": false
+        },
+        {
+          "label": "Value, EMD, deadline and RFP verified from source document",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://www.defproc.gov.in/nicgep/app?page=WebTenderStatusLists&service=page",
+      "sourceType": "Defence eProcure Signal"
+    },
+    {
+      "id": "GEM/2026/B/7582137",
+      "title": "Facility Management Services - LumpSum Based - MR FOR CONSTRUCTION OF 122 METRE  (400 FEET)  DEEP T",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9376311",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/677843",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian; Breakfast, Lunch, Dinner, Snac",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Rural Development Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9426727",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7535806",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9324652",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7535684",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9324520",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/678044",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian; Breakfast, Lunch, Dinner, Snac",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Rural Development Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9428862",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7568688",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian; Breakfast, Lunch, Dinner, Snac",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Higher Education Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-06-08",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9361236",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7619576",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-15",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9418198",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7604652",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian; Breakfast, Lunch, Dinner, Snac",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Higher Education Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 2,
+      "deadline": "2026-06-15",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9401546",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7601083",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian; Breakfast, Lunch, Dinner, Snac",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Higher Education Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 2,
+      "deadline": "2026-06-15",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Medium",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9397566",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7580142",
+      "title": "MS ERW Pipe for Bus Body Building Parts as per IS 3601 (Latest),MS ERW Pipe for Bus Body Building P",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-15",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9373962",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7607744",
+      "title": "Operation and Maintenance Power House / Power Plant - Construction of temp bund in Lagoon 1 of main",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9405148",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7618567",
+      "title": "Custom Bid for Services - Installation of 33 KV RMU and Construction of its structure",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9417081",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7617848",
+      "title": "Repairing Cracks or Small Areas in the Roof and Stopping Leaks (for C. B. T Building & Computer Lab",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Vocational Education and Skill Development Department Uttar Pradesh",
+      "category": "Building Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9416311",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7513470",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9299891",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7637803",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9438669",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7637956",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9438839",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7611769",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9409701",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7611569",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9409485",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7628340",
+      "title": "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Urban Development Department Uttar Pradesh",
+      "category": "Road Construction",
+      "valueCr": 0,
+      "deadline": "2026-06-18",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9427971",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7752194",
+      "title": "Facility Management Services - LumpSum Based - M and R FOR CONSTRUCTION OF 122 METRE   400 FEET DEE",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Energy Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-07-17",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9567610",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/B/7744693",
+      "title": "Facility Management Services - LumpSum Based - Electrical and repair work in the building; O&M of E",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Language (Bhasha Vibhag) Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-07-17",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9558744",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/698419",
+      "title": "Canteen Service - Best Price  on Fixed Menu Rate Model - Vegetarian, Non-Vegetarian; Breakfast, Lun",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Sports Department Uttar Pradesh",
+      "category": "Construction Works",
+      "valueCr": 0,
+      "deadline": "2026-07-17",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9609273",
+      "sourceType": "GeM Live"
+    },
+    {
+      "id": "GEM/2026/R/698368",
+      "title": "Facility Management Services - LumpSum Based - Residential; Civil Work; Consumables to be provided ",
+      "portal": "GeM",
+      "state": "Uttar Pradesh",
+      "department": "Medical Education Department Uttar Pradesh",
+      "category": "Building Renovation",
+      "valueCr": 0,
+      "deadline": "2026-07-17",
+      "emdLakh": 0,
+      "pbgPercent": 0,
+      "aiScore": 68,
+      "status": "Open",
+      "risk": "Low",
+      "winProbability": 54,
+      "recommendedBidLowCr": 0,
+      "recommendedBidHighCr": 0,
+      "competitorEstimateCr": 0,
+      "marginPercent": 8.5,
+      "clauses": [
+        "Live GeM ongoing bid row",
+        "Specification and quantity must be verified on GeM",
+        "Check corrigendum/representation before bid approval",
+        "Validate GeM seller/service category eligibility"
+      ],
+      "pqChecks": [
+        {
+          "label": "GeM public row fetched",
+          "passed": true
+        },
+        {
+          "label": "Uttar Pradesh buyer/signal matched",
+          "passed": true
+        },
+        {
+          "label": "Bid document opened and EMD/value verified",
+          "passed": false
+        }
+      ],
+      "sourceUrl": "https://bidplus.gem.gov.in/showbidDocument/9608736",
+      "sourceType": "GeM Live"
+    }
+  ],
+  "dashboardSnapshots": [
+    {
+      "id": "SNAP-1784226211826",
+      "createdAt": "2026-07-16T18:23:31.826Z",
+      "tenderCount": 20,
+      "liveRows": 20,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779866841",
+      "createdAt": "2026-06-18T10:51:06.841Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779866832",
+      "createdAt": "2026-06-18T10:51:06.832Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779865094",
+      "createdAt": "2026-06-18T10:51:05.094Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779865084",
+      "createdAt": "2026-06-18T10:51:05.084Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779813975",
+      "createdAt": "2026-06-18T10:50:13.975Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781779813967",
+      "createdAt": "2026-06-18T10:50:13.967Z",
+      "tenderCount": 25,
+      "liveRows": 25,
+      "pipelineCr": 0,
+      "weightedPipelineCr": 0,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781440417139",
+      "createdAt": "2026-06-14T12:33:37.139Z",
+      "tenderCount": 21,
+      "liveRows": 21,
+      "pipelineCr": 4,
+      "weightedPipelineCr": 2.16,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1781440417128",
+      "createdAt": "2026-06-14T12:33:37.128Z",
+      "tenderCount": 21,
+      "liveRows": 21,
+      "pipelineCr": 4,
+      "weightedPipelineCr": 2.16,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780911691946",
+      "createdAt": "2026-06-08T09:41:31.946Z",
+      "tenderCount": 21,
+      "liveRows": 19,
+      "pipelineCr": 170.7,
+      "weightedPipelineCr": 111.16799999999999,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780911672581",
+      "createdAt": "2026-06-08T09:41:12.581Z",
+      "tenderCount": 21,
+      "liveRows": 19,
+      "pipelineCr": 170.7,
+      "weightedPipelineCr": 111.16799999999999,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780911672454",
+      "createdAt": "2026-06-08T09:41:12.454Z",
+      "tenderCount": 22,
+      "liveRows": 20,
+      "pipelineCr": 170.7,
+      "weightedPipelineCr": 111.16799999999999,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780910910162",
+      "createdAt": "2026-06-08T09:28:30.162Z",
+      "tenderCount": 20,
+      "liveRows": 18,
+      "pipelineCr": 170.7,
+      "weightedPipelineCr": 111.16799999999999,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780910855827",
+      "createdAt": "2026-06-08T09:27:35.827Z",
+      "tenderCount": 20,
+      "liveRows": 18,
+      "pipelineCr": 170.7,
+      "weightedPipelineCr": 111.16799999999999,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780752131243",
+      "createdAt": "2026-06-06T13:22:11.243Z",
+      "tenderCount": 28,
+      "liveRows": 25,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780752131233",
+      "createdAt": "2026-06-06T13:22:11.233Z",
+      "tenderCount": 28,
+      "liveRows": 25,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780751822270",
+      "createdAt": "2026-06-06T13:17:02.270Z",
+      "tenderCount": 28,
+      "liveRows": 25,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780751786894",
+      "createdAt": "2026-06-06T13:16:26.894Z",
+      "tenderCount": 28,
+      "liveRows": 25,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780749559675",
+      "createdAt": "2026-06-06T12:39:19.675Z",
+      "tenderCount": 12,
+      "liveRows": 9,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780749559644",
+      "createdAt": "2026-06-06T12:39:19.644Z",
+      "tenderCount": 12,
+      "liveRows": 9,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780749410628",
+      "createdAt": "2026-06-06T12:36:50.628Z",
+      "tenderCount": 12,
+      "liveRows": 9,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780745417557",
+      "createdAt": "2026-06-06T11:30:17.557Z",
+      "tenderCount": 13,
+      "liveRows": 10,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780745417095",
+      "createdAt": "2026-06-06T11:30:17.095Z",
+      "tenderCount": 13,
+      "liveRows": 10,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780734565395",
+      "createdAt": "2026-06-06T08:29:25.395Z",
+      "tenderCount": 8,
+      "liveRows": 5,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780733667078",
+      "createdAt": "2026-06-06T08:14:27.078Z",
+      "tenderCount": 8,
+      "liveRows": 5,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780733667031",
+      "createdAt": "2026-06-06T08:14:27.031Z",
+      "tenderCount": 9,
+      "liveRows": 6,
+      "pipelineCr": 202.29999999999998,
+      "weightedPipelineCr": 131.392,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780665071681",
+      "createdAt": "2026-06-05T13:11:11.681Z",
+      "tenderCount": 13,
+      "liveRows": 9,
+      "pipelineCr": 254.70000000000002,
+      "weightedPipelineCr": 169.11999999999998,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780665055738",
+      "createdAt": "2026-06-05T13:10:55.738Z",
+      "tenderCount": 12,
+      "liveRows": 8,
+      "pipelineCr": 254.70000000000002,
+      "weightedPipelineCr": 169.11999999999998,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780664997199",
+      "createdAt": "2026-06-05T13:09:57.199Z",
+      "tenderCount": 13,
+      "liveRows": 9,
+      "pipelineCr": 254.70000000000002,
+      "weightedPipelineCr": 169.11999999999998,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780664987082",
+      "createdAt": "2026-06-05T13:09:47.082Z",
+      "tenderCount": 13,
+      "liveRows": 9,
+      "pipelineCr": 254.70000000000002,
+      "weightedPipelineCr": 169.11999999999998,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780654073765",
+      "createdAt": "2026-06-05T10:07:53.765Z",
+      "tenderCount": 9,
+      "liveRows": 5,
+      "pipelineCr": 254.70000000000002,
+      "weightedPipelineCr": 169.11999999999998,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780650582407",
+      "createdAt": "2026-06-05T09:09:42.407Z",
+      "tenderCount": 16,
+      "liveRows": 6,
+      "pipelineCr": 323.47,
+      "weightedPipelineCr": 210.55609999999996,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780650582384",
+      "createdAt": "2026-06-05T09:09:42.384Z",
+      "tenderCount": 16,
+      "liveRows": 6,
+      "pipelineCr": 323.47,
+      "weightedPipelineCr": 210.55609999999996,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780649842542",
+      "createdAt": "2026-06-05T08:57:22.542Z",
+      "tenderCount": 14,
+      "liveRows": 4,
+      "pipelineCr": 326.1700000000001,
+      "weightedPipelineCr": 212.31309999999996,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780649842427",
+      "createdAt": "2026-06-05T08:57:22.427Z",
+      "tenderCount": 14,
+      "liveRows": 4,
+      "pipelineCr": 326.1700000000001,
+      "weightedPipelineCr": 212.31309999999996,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780649672572",
+      "createdAt": "2026-06-05T08:54:32.572Z",
+      "tenderCount": 14,
+      "liveRows": 4,
+      "pipelineCr": 326.1700000000001,
+      "weightedPipelineCr": 212.31309999999996,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780648825944",
+      "createdAt": "2026-06-05T08:40:25.944Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780648822117",
+      "createdAt": "2026-06-05T08:40:22.117Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780648822092",
+      "createdAt": "2026-06-05T08:40:22.092Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780485441574",
+      "createdAt": "2026-06-03T11:17:21.574Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780485441549",
+      "createdAt": "2026-06-03T11:17:21.549Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780485400740",
+      "createdAt": "2026-06-03T11:16:40.740Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780485397292",
+      "createdAt": "2026-06-03T11:16:37.292Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1780485397267",
+      "createdAt": "2026-06-03T11:16:37.267Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370838716",
+      "createdAt": "2026-05-21T13:40:38.716Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370838668",
+      "createdAt": "2026-05-21T13:40:38.668Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370828903",
+      "createdAt": "2026-05-21T13:40:28.903Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370828880",
+      "createdAt": "2026-05-21T13:40:28.880Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370808701",
+      "createdAt": "2026-05-21T13:40:08.701Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    },
+    {
+      "id": "SNAP-1779370808667",
+      "createdAt": "2026-05-21T13:40:08.667Z",
+      "tenderCount": 11,
+      "liveRows": 1,
+      "pipelineCr": 321.47,
+      "weightedPipelineCr": 209.47609999999997,
+      "source": "live-normalized-feed"
+    }
+  ]
+}

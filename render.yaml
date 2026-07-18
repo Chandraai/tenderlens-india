@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: tenderlens-india
+    runtime: node
+    region: singapore  # closest to India
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+      - key: NEXTAUTH_URL
+        sync: false   # set this in Render dashboard after deploy
+      - key: NEXTAUTH_SECRET
+        generateValue: true   # Render auto-generates a secure secret
+      - key: AI_SERVICE_URL
+        value: http://localhost:8000
+      - key: OPENAI_API_KEY
+        value: ""
+      - key: GEM_API_KEY
+        value: ""
+      - key: CPPP_FEED_TOKEN
+        value: ""
+    disk:
+      name: tenderlens-data
+      mountPath: /opt/render/project/src/data
+      sizeGB: 1

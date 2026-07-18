@@ -1,0 +1,48 @@
+services:
+  web:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "4000:4000"
+    environment:
+      NODE_ENV: production
+      PORT: 4000
+      DATABASE_URL: postgresql://tender:tender@postgres:5432/tenderlens
+      REDIS_URL: redis://redis:6379
+      NEXTAUTH_URL: http://localhost:4000
+      NEXTAUTH_SECRET: ${NEXTAUTH_SECRET:-change-this-before-production}
+      AI_SERVICE_URL: http://ai:8000
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      GEM_API_KEY: ${GEM_API_KEY:-}
+      CPPP_FEED_TOKEN: ${CPPP_FEED_TOKEN:-}
+    depends_on:
+      - postgres
+      - redis
+      - ai
+    volumes:
+      - appdata:/app/data
+    command: npm run start:4000
+  ai:
+    build: ./services/ai
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: tender
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-tender}
+      POSTGRES_DB: tenderlens
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+volumes:
+  pgdata:
+  appdata:

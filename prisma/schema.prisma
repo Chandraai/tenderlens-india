@@ -1,0 +1,119 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  name      String?
+  role      Role     @default(ANALYST)
+  createdAt DateTime @default(now())
+}
+
+model Tender {
+  id             String       @id
+  title          String
+  portal         Portal
+  state          String?
+  department     String
+  category       String
+  valueCr        Decimal
+  deadline       String
+  emdLakh        Decimal
+  pbgPercent     Decimal
+  aiScore        Int
+  status         TenderStatus
+  risk           RiskLevel
+  winProbability Int
+  sourceUrl      String?
+  sourceType     String?
+  clauses        Json
+  pqChecks       Json
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  analyses       TenderAnalysis[]
+  predictions    MlPrediction[]
+}
+
+model CompanyDocument {
+  id          String   @id @default(cuid())
+  fileName    String
+  type        String
+  status      String
+  health      Int
+  confidence  Int
+  owner       String?
+  issueDate   String?
+  expiryDate  String?
+  redFlags    Json
+  fields      Json
+  rawPreview  String?
+  createdAt   DateTime @default(now())
+}
+
+model TenderAnalysis {
+  id                  String   @id @default(cuid())
+  tenderId            String?
+  tender              Tender?  @relation(fields: [tenderId], references: [id])
+  title               String
+  recommendedDecision String
+  riskLevel           String
+  bidReadinessScore   Int
+  winProbability      Int
+  report              Json
+  createdAt           DateTime @default(now())
+}
+
+model MlPrediction {
+  id                String   @id @default(cuid())
+  tenderId          String
+  tender            Tender   @relation(fields: [tenderId], references: [id])
+  modelName         String
+  winProbability    Int
+  riskScore         Int
+  priceBandLowCr    Decimal
+  priceBandHighCr   Decimal
+  features          Json
+  createdAt         DateTime @default(now())
+}
+
+model DashboardSnapshot {
+  id                 String   @id @default(cuid())
+  tenderCount        Int
+  liveRows           Int
+  pipelineCr         Decimal
+  weightedPipelineCr Decimal
+  payload            Json
+  createdAt          DateTime @default(now())
+}
+
+enum Role {
+  CEO
+  MANAGER
+  ANALYST
+}
+
+enum Portal {
+  GEM
+  CPPP
+  STATE
+}
+
+enum TenderStatus {
+  OPEN
+  CLOSING
+  CLOSED
+  WON
+  LOST
+}
+
+enum RiskLevel {
+  LOW
+  MEDIUM
+  HIGH
+}
