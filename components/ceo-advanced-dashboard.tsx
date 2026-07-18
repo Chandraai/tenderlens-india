@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, Cell, ComposedChart, Legend, Line, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { AlertTriangle, BrainCircuit, Database, IndianRupee, Loader2, RefreshCw, ShieldAlert, Target, Timer } from "lucide-react";
 import { Badge, Progress, SectionHeader } from "@/components/ui";
@@ -82,11 +83,11 @@ export function CeoAdvancedDashboard() {
       />
 
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-5">
-        <Kpi title="Active tenders" value={kpis.activeTenders} icon={<Timer className="h-5 w-5" />} />
-        <Kpi title="Pipeline" value={formatCr(kpis.pipelineCr)} icon={<IndianRupee className="h-5 w-5" />} />
-        <Kpi title="Weighted forecast" value={formatCr(kpis.weightedPipelineCr)} icon={<Target className="h-5 w-5" />} />
-        <Kpi title="EMD blocked" value={formatCr(kpis.emdBlockedCr)} icon={<Database className="h-5 w-5" />} />
-        <Kpi title="ML win avg" value={`${kpis.avgWinProbability}%`} icon={<BrainCircuit className="h-5 w-5" />} />
+        <Kpi title="Active tenders" value={kpis.activeTenders} icon={<Timer className="h-5 w-5" />} href="/tenders" />
+        <Kpi title="Pipeline" value={formatCr(kpis.pipelineCr)} icon={<IndianRupee className="h-5 w-5" />} href="/tenders" />
+        <Kpi title="Weighted forecast" value={formatCr(kpis.weightedPipelineCr)} icon={<Target className="h-5 w-5" />} href="/financials" />
+        <Kpi title="EMD blocked" value={formatCr(kpis.emdBlockedCr)} icon={<Database className="h-5 w-5" />} href="/financials" />
+        <Kpi title="ML win avg" value={`${kpis.avgWinProbability}%`} icon={<BrainCircuit className="h-5 w-5" />} href="/ai-insights" />
       </div>
 
       <div className="grid gap-4 lg:grid-cols-[1.1fr_.9fr]">
@@ -208,12 +209,26 @@ export function CeoAdvancedDashboard() {
   );
 }
 
-function Kpi({ title, value, icon }: { title: string; value: string | number; icon: React.ReactNode }) {
+function Kpi({ title, value, icon, href }: { title: string; value: string | number; icon: React.ReactNode; href?: string }) {
+  const content = (
+    <>
+      <div className="mb-3 grid h-10 w-10 place-items-center rounded bg-blue-50 text-blue-700 dark:bg-blue-500/10 dark:text-blue-300 transition-colors group-hover:bg-brand-500 group-hover:text-white dark:group-hover:bg-brand-500/20">{icon}</div>
+      <p className="text-sm text-slate-500 dark:text-slate-400">{title}</p>
+      <p className="mt-2 text-2xl font-semibold tracking-tight">{value}</p>
+    </>
+  );
+
+  if (href) {
+    return (
+      <Link href={href} className="panel group p-4 block transition-all duration-200 hover:-translate-y-1 hover:border-brand-500/30 hover:shadow-lg cursor-pointer">
+        {content}
+      </Link>
+    );
+  }
+
   return (
     <div className="panel p-4">
-      <div className="mb-3 grid h-10 w-10 place-items-center rounded bg-blue-50 text-blue-700 dark:bg-blue-500/10 dark:text-blue-300">{icon}</div>
-      <p className="text-sm text-slate-500">{title}</p>
-      <p className="mt-2 text-2xl font-semibold">{value}</p>
+      {content}
     </div>
   );
 }
