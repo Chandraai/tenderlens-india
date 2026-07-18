@@ -26,21 +26,20 @@
     "recharts": "^2.15.0",
     "tailwind-merge": "^2.5.5",
     "uuid": "11.1.1",
-    "zod": "^3.24.1"
-  },
-  "devDependencies": {
-    "@types/d3": "^7.4.3",
+    "zod": "^3.24.1",
+    "tailwindcss": "^3.4.17",
+    "autoprefixer": "^10.4.20",
+    "postcss": "8.5.15",
+    "typescript": "^5.7.2",
     "@types/node": "^20.17.10",
     "@types/react": "^18.3.17",
     "@types/react-dom": "^18.3.5",
-    "autoprefixer": "^10.4.20",
+    "@types/d3": "^7.4.3",
     "eslint": "9.39.4",
     "eslint-config-next": "16.2.7",
-    "postcss": "8.5.15",
-    "prisma": "^5.22.0",
-    "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.2"
+    "prisma": "^5.22.0"
   },
+  "devDependencies": {},
   "overrides": {
     "postcss": "8.5.15",
     "uuid": "11.1.1"
