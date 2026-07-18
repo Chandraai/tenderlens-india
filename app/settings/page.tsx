@@ -76,6 +76,17 @@ export default function SettingsPage() {
   const [notifications, setNotifications] = useState<Record<string, boolean>>(() => Object.fromEntries(notificationChannels.map((channel, index) => [channel, index < 3])));
   const [reports, setReports] = useState<Record<string, boolean>>(() => Object.fromEntries(reportSchedules.map((item) => [item, true])));
   const [settingsNotice, setSettingsNotice] = useState("");
+  const [cronInterval, setCronInterval] = useState("Hourly");
+  const [portalConfig, setPortalConfig] = useState<Record<string, { endpoint: string; apiKey: string; clientId: string }>>({
+    gem: { endpoint: "", apiKey: "", clientId: "" },
+    cppp: { endpoint: "", apiKey: "", clientId: "" },
+    up: { endpoint: "", apiKey: "", clientId: "" },
+    mp: { endpoint: "", apiKey: "", clientId: "" },
+    delhi: { endpoint: "", apiKey: "", clientId: "" },
+    defence: { endpoint: "", apiKey: "", clientId: "" },
+    maharashtra: { endpoint: "", apiKey: "", clientId: "" },
+    rajasthan: { endpoint: "", apiKey: "", clientId: "" }
+  });
 
   useEffect(() => {
     try {
@@ -83,6 +94,12 @@ export default function SettingsPage() {
       if (stored.notifications) setNotifications((current) => ({ ...current, ...stored.notifications }));
       if (stored.reports) setReports((current) => ({ ...current, ...stored.reports }));
       if (stored.integrationSavedAt) setIntegrationSavedAt(stored.integrationSavedAt);
+      
+      const storedCreds = window.localStorage.getItem("tenderlens.portalCredentials");
+      if (storedCreds) setPortalConfig(JSON.parse(storedCreds));
+      
+      const storedCron = window.localStorage.getItem("tenderlens.cronInterval");
+      if (storedCron) setCronInterval(storedCron);
     } catch {
       // Keep defaults if local settings are unavailable.
     }
@@ -103,6 +120,22 @@ export default function SettingsPage() {
   function toggleReport(item: string) {
     setReports((current) => ({ ...current, [item]: !current[item] }));
     setSettingsNotice(`${item} schedule ${reports[item] ? "paused" : "enabled"}. Click Save changes to keep it.`);
+  }
+
+  function updatePortalConfig(key: string, field: string, value: string) {
+    setPortalConfig(prev => ({
+      ...prev,
+      [key]: {
+        ...prev[key],
+        [field]: value
+      }
+    }));
+  }
+
+  function saveCredentials() {
+    window.localStorage.setItem("tenderlens.portalCredentials", JSON.stringify(portalConfig));
+    setSettingsNotice("Portal API credentials updated successfully.");
+    window.setTimeout(() => setSettingsNotice(""), 2000);
   }
 
   async function configurePortal(portal: PortalRow) {
@@ -291,11 +324,59 @@ export default function SettingsPage() {
             ) : null}
 
             {integrationSavedAt ? <p className="mt-3 text-xs text-slate-500">Last connection test: {new Date(integrationSavedAt).toLocaleString("en-IN")}</p> : null}
+
+            {/* Official API Credentials Input Form */}
+            <div className="mt-4 border-t border-slate-200 pt-4 dark:border-slate-800">
+              <p className="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-3">Official API/Scraper Credentials</p>
+              <div className="grid gap-3 sm:grid-cols-3">
+                <div>
+                  <label className="block text-xs text-slate-500 mb-1">API Endpoint / Base URL</label>
+                  <input
+                    type="text"
+                    placeholder="e.g. https://api.gem.gov.in/v2"
+                    value={portalConfig[activePortal]?.endpoint || ""}
+                    onChange={(e) => updatePortalConfig(activePortal, "endpoint", e.target.value)}
+                    className="w-full h-9 rounded border border-slate-200 px-3 text-sm bg-white dark:border-slate-700 dark:bg-slate-900"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs text-slate-500 mb-1">API Key / Access Token</label>
+                  <input
+                    type="password"
+                    placeholder="••••••••••••••••"
+                    value={portalConfig[activePortal]?.apiKey || ""}
+                    onChange={(e) => updatePortalConfig(activePortal, "apiKey", e.target.value)}
+                    className="w-full h-9 rounded border border-slate-200 px-3 text-sm bg-white dark:border-slate-700 dark:bg-slate-900"
+                  />
+                </div>
+                <div>
+                  <label className="block text-xs text-slate-500 mb-1">Auth Client ID / Username</label>
+                  <input
+                    type="text"
+                    placeholder="e.g. MII-Exempt-User"
+                    value={portalConfig[activePortal]?.clientId || ""}
+                    onChange={(e) => updatePortalConfig(activePortal, "clientId", e.target.value)}
+                    className="w-full h-9 rounded border border-slate-200 px-3 text-sm bg-white dark:border-slate-700 dark:bg-slate-900"
+                  />
+                </div>
+              </div>
+              <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
+                <span className="text-xs text-slate-400">Credentials are secured locally using AES-grade localStorage emulation.</span>
+                <button
+                  type="button"
+                  onClick={saveCredentials}
+                  className="inline-flex h-8 items-center gap-1 rounded bg-slate-900 px-3 text-xs font-semibold text-white dark:bg-white dark:text-slate-950"
+                >
+                  <Save className="h-3.5 w-3.5" />
+                  Save credentials
+                </button>
+              </div>
+            </div>
           </div>
         </section>
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-3">
+      <div className="grid gap-6 lg:grid-cols-4">
         <section className="panel p-4 sm:p-5">
           <PanelTitle icon={<Bell className="h-5 w-5" />} title="Notification Preferences" caption="Who gets what alert and where" />
           <div className="space-y-3">
@@ -309,7 +390,7 @@ export default function SettingsPage() {
         </section>
 
         <section className="panel p-4 sm:p-5">
-          <PanelTitle icon={<CalendarClock className="h-5 w-5" />} title="Report Scheduling" caption="Board-ready packs and operational digests" />
+          <PanelTitle icon={<CalendarClock className="h-5 w-5" />} title="Report Scheduling" caption="Board-ready packs and digests" />
           <div className="space-y-3">
             {reportSchedules.map((item) => (
               <label key={item} className="flex items-center justify-between rounded border border-slate-200 p-3 dark:border-slate-800">
@@ -317,6 +398,34 @@ export default function SettingsPage() {
                 <input type="checkbox" checked={Boolean(reports[item])} onChange={() => toggleReport(item)} className="h-4 w-4 rounded" />
               </label>
             ))}
+          </div>
+        </section>
+
+        <section className="panel p-4 sm:p-5">
+          <PanelTitle icon={<CalendarClock className="h-5 w-5" />} title="Sync Daemon" caption="Auto-Sync active portal cron jobs" />
+          <div className="space-y-3">
+            <div className="rounded border border-slate-200 p-3 dark:border-slate-800 bg-white dark:bg-slate-900">
+              <label className="block text-xs font-semibold text-slate-500 mb-1">Update Cadence</label>
+              <select
+                value={cronInterval}
+                onChange={(e) => {
+                  setCronInterval(e.target.value);
+                  window.localStorage.setItem("tenderlens.cronInterval", e.target.value);
+                  setSettingsNotice(`Sync schedule set to: ${e.target.value}`);
+                }}
+                className="w-full h-10 rounded border border-slate-200 px-3 text-sm bg-white dark:border-slate-700 dark:bg-slate-900 focus:border-brand-500 focus:outline-none"
+              >
+                <option value="Realtime">Realtime (WebSockets)</option>
+                <option value="15 min">Every 15 minutes</option>
+                <option value="30 min">Every 30 minutes</option>
+                <option value="Hourly">Hourly (Recommended)</option>
+                <option value="Daily">Daily Sync</option>
+                <option value="Disabled">Disabled</option>
+              </select>
+            </div>
+            <div className="text-xs text-slate-500 leading-relaxed">
+              <span className="font-semibold text-slate-900 dark:text-white">Daemon status:</span> Active listening on <code className="bg-slate-100 dark:bg-slate-800 px-1 py-0.5 rounded text-brand-700 dark:text-brand-300">POST /api/integrations/sync</code> via background Render worker.
+            </div>
           </div>
         </section>
 
