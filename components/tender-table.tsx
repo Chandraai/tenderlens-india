@@ -551,6 +551,7 @@ function TenderDetailDialog({ tender, onClose, onAnalyze, onDownload }: { tender
             title="Commercial view"
             items={commercialItems}
           />
+          <DetailBlock title="Indian Procurement Rules (MSME & Make-In-India)" items={buildIndianCompliance(tender, sourceAnalysis)} />
           <DetailBlock title="Scoring / Finance Basis" items={buildScoringBasis(tender, sourceAnalysis)} />
           <DetailBlock
             title="Source"
@@ -584,6 +585,28 @@ function TenderDetailDialog({ tender, onClose, onAnalyze, onDownload }: { tender
       </div>
     </div>
   );
+}
+
+function buildIndianCompliance(tender: Tender, _analysis: UploadedTenderAnalysis | null) {
+  const isMsmeEligible = !tender.category.toLowerCase().includes("large epc") && tender.valueCr < 10;
+  const emdLabel = tender.emdLakh ? `Rs. ${tender.emdLakh} Lakh` : "verify";
+  const msmeText = isMsmeEligible
+    ? `✅ MSME Exemption: Eligible. EMD of ${emdLabel} is waivable with valid Udyam certificate.`
+    : `⚠️ MSME Exemption: Review. High value or complex construction work; check specific department exceptions.`;
+
+  const miiText = tender.valueCr >= 5
+    ? "🇮🇳 Make in India: Class-I local supplier (>=50% local content) preferred. Certificate verified by CA required for bids > 10 Cr."
+    : "🇮🇳 Make in India: Self-declaration of local content percentage allowed for bids under 5 Cr.";
+
+  const boqType = tender.clauses.some(c => c.toLowerCase().includes("percentage"))
+    ? "📊 BOQ Format: Percentage Rate BOQ. Bid must be quoted as % above/below schedule rates."
+    : tender.clauses.some(c => c.toLowerCase().includes("epc") || c.toLowerCase().includes("lump"))
+      ? "📊 BOQ Format: Lump Sum (EPC) BOQ. Fixed price package bid."
+      : "📊 BOQ Format: Item Rate BOQ. Verify individual line item prices in Excel sheet.";
+
+  const corrigendumTrack = "🔔 Corrigendum Watch: High. Track portal regularly; pre-bid meeting amendments usually release 7-10 days before submission.";
+
+  return [msmeText, miiText, boqType, corrigendumTrack];
 }
 
 function buildScoringBasis(tender: Tender, analysis: UploadedTenderAnalysis | null) {
